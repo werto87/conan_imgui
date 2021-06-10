@@ -1,0 +1,22 @@
+{
+ "options": [
+  [
+   "imgui:fPIC",
+   "True"
+  ],
+  [
+   "imgui:shared",
+   "False"
+  ],
+  [
+   "imgui:with_emscripten_pthreads",
+   "False"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": "werto87",
+  "channel": "stable"
+ }
+}

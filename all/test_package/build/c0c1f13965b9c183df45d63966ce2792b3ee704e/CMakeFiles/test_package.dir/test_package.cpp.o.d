@@ -1,0 +1,27 @@
+CMakeFiles/test_package.dir/test_package.cpp.o: \
+  /home/walde/my_conan_recipe/imgui/all/test_package/test_package.cpp \
+  /home/walde/.conan/data/imgui/1.82/werto87/stable/package/4eff37f8c5e86486f4d30f32be911d096130e3f6/include/imgui.h \
+  /home/walde/.conan/data/imgui/1.82/werto87/stable/package/4eff37f8c5e86486f4d30f32be911d096130e3f6/include/imconfig.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libcxx/float.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libcxx/__config \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libc/pthread.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libc/float.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/lib/libc/musl/arch/emscripten/bits/float.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/compat/stdarg.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libc/stdarg.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/lib/libc/musl/arch/emscripten/bits/alltypes.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libcxx/stddef.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libc/stddef.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libcxx/__nullptr \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libcxx/string.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/compat/string.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libc/string.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libc/features.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libc/strings.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libc/assert.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libcxx/stdio.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libc/stdio.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/wasi/api.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libcxx/stdint.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/include/libc/stdint.h \
+  /home/walde/.conan/data/emsdk_installer/2.0.10/werto87/stable/package/44fcf6b9a7fb86b2586303e3db40189d3b511830/upstream/emscripten/system/lib/libc/musl/arch/emscripten/bits/stdint.h
